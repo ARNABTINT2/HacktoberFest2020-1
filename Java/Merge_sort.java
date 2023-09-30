@@ -2,7 +2,8 @@ package searching_and_sorting;
 
 import java.util.Scanner;
 
-public class Merge_sort {
+public class Merge_sort
+	{
 
 	static Scanner s = new Scanner(System.in);
 
