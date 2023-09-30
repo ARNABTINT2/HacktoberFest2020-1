@@ -6,7 +6,8 @@ int main(){
 
 #include <stdio.h>
 //Main method
-void main() {
+void main()
+{
 	int num1,num2,multiple;
 	printf("Enter first number:");
 	scanf("%d",&num1);
